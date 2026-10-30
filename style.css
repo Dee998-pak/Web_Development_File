@@ -1,0 +1,24 @@
+body{
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1{
+    color: darkblue;
+    font-size: 40px;
+}
+h2
+{
+    color: blueviolet;
+}
+p{
+    color: black;
+    font-size: 20px;
+}
+button{
+    background-color: mediumvioletred;
+    color: yellow;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+}
